@@ -26,7 +26,7 @@ I'm RedGreenBlue09.
   - Email: Redgreenblue@outlook.com.vn
 - ⚡ Fun facts:
 
-  - I love low-level stuff (Eg: Bitwise)
+  - I love low-level stuff (Eg: Bitwise, UEFI)
   - My favorite OS is Windows 10.
   - I love writing simple but "make sense" programs.
   
