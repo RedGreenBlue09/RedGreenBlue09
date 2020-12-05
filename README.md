@@ -22,11 +22,12 @@ I'm RedGreenBlue09.
 
 - 🤔 I’m looking for help with porting Linux to my Lumia.
 - 📫 Contact me on:
+
   - [Telegram](https://t.me/RedGreenBlue123)
   - Email: Redgreenblue@outlook.com.vn
+  
 - ⚡ Fun facts:
 
-  - I love low-level stuff (Eg: Bitwise, UEFI)
-  - My favorite OS is Windows 10.
+  - My favorite OS is Windows Vista SP2.
   - I love writing simple but "make sense" programs.
   
