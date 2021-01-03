@@ -28,6 +28,6 @@ I'm RedGreenBlue09.
   
 - ⚡ Fun facts:
 
-  - My favorite OS is Windows Vista SP2.
+  - My favorite OS is Windows NT.
   - I love writing simple but "make sense" programs.
   
