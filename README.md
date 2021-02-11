@@ -5,7 +5,7 @@ I'm RedGreenBlue09.
 ### Me in a nutshell:
 
   - 🇻🇳 I'm Vietnamese.
-  - 🔥 Hobby: Learning computer science.
+  - 🔥 Hobby: Exploring softwares & Programming.
   - 😐 I'm new to programming.
 
 ### Detailed Information:
