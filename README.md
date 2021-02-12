@@ -24,7 +24,7 @@ I'm RedGreenBlue09.
 - 📫 Contact me on:
 
   - [Telegram](https://t.me/RedGreenBlue123)
-  - Email: redstonenguyen@gmail.com
+  - Email: redgreenblue@outlook.com.vn
   
 - ⚡ Fun facts:
 
