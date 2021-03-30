@@ -13,7 +13,6 @@ I'm RedGreenBlue09.
 - 🔭 I’m currently working on:
 
   - [WFAv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer) - An automatic batch script that help you installing Windows 10 Desktop into Lumias.
-  - [BatchApi](https://github.com/RedGreenBlue09/BatchApi) - Bring WinApi functions to batch files. (Experimental)
   
 - 🌱 I’m currently learning:
 
