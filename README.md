@@ -6,7 +6,7 @@ I'm RedGreenBlue09.
 
   - 👨 Random guy on the internet.
   - 🔥 Hobby: Exploring softwares & Programming. Music as well!
-  - ✏️ I know C, C++. I learned them by myself.
+  - ✏️ I know: Batch file, C, C++. I learned them by myself.
 
 ### Detailed Information:
 
