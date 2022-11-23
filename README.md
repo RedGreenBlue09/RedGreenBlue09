@@ -5,7 +5,7 @@ I'm RedGreenBlue09.
 ### Me in a nutshell:
 
   - 👨 Random guy on the internet.
-  - 🔥 Hobby: Exploring softwares & programming. Music as well!
+  - 🔥 Hobby: Exploring softwares, programming & math. Music as well!
   - ✏️ I know: Batch file, C, C++. I learned them by myself.
 
 ### Detailed Information:
