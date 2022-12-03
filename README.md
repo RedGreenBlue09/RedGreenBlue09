@@ -12,7 +12,7 @@ I'm RedGreenBlue09.
 
 - 🔭 I’m currently working on:
 
-  - [WFAv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer) - An automatic batch script that help you installing Windows 10 Desktop into Lumias.
+  - [WFAv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer) - An automatic batch script that help you install Windows 10 desktop into Lumias.
   
 - 🌱 I’m interested in:
 
@@ -26,6 +26,6 @@ I'm RedGreenBlue09.
   
 - ⚡ Fun facts:
 
-  - My favorite OS is Windows NT.
+  - My favorite OS family is Windows NT.
   - I love writing simple but cool programs.
   
